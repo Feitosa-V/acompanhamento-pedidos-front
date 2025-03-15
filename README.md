@@ -10,7 +10,7 @@ git clone https://github.com/Feitosa-V/acompanhamento-pedidos-front.git
 cd acompanhamento-pedidos-front
 ```
 
-### 2. Dependências do node
+### 2. Instalar as dependências
 ```sh
 npm install
 ```
