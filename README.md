@@ -1,8 +1,8 @@
-### PROJETO BACK FRONT END DE ACOMPANHAMENTO DE PEDIDOS
-
-
+### PROJETO FRONT END DE ACOMPANHAMENTO DE PEDIDOS
 
 ## Configuração do Ambiente
+
+⚠️ Antes de rodar o Front End, inicie primeiro o Back End.
 
 ### 1. Clonar repositório
 ```sh
@@ -33,10 +33,10 @@ yarn dev
 ## Funcionalidades e Regras
 
 ### 1. Back End
-- O Back End precisar estar rodando para os módulos de login e dashboard serem acessados corretamente.
-- O Back End vai estar rodando em: `http://localhost:3333`
+- O Back End precisa estar rodando para que os módulos de login e dashboard sejam acessados corretamente.
+- O Back End estará rodando em: `http://localhost:3333`
 
 ## Tecnologias Utilizadas
-- **Frontend:** Next.js
+- **Frontend:** Next.js / TypeScript
 
 
